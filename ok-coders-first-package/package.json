@@ -1,0 +1,14 @@
+{
+  "name": "ok-coders-first-package",
+  "version": "1.0.0",
+  "description": "First module experiment in class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J. Chris Tyler",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  }
+}

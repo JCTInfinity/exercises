@@ -1,0 +1,6 @@
+const ok_code = require('ok-coders-back-end-example')
+const _ = require('lodash')
+console.log(ok_code)
+ok_code.hello()
+console.log(_.map([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], (n) => (n + 3) * n))
+ok_code.forEach([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], (x) => console.log(x * x))
